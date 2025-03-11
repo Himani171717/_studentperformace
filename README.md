@@ -1,1 +1,1 @@
-# _studentperformace
+A machine learning project using Python to predict students' final exam scores based on study hours and previous scores. The project applies a Linear Regression Model and evaluates accuracy using MAE, MSE, and RMSE. Built with Pandas, NumPy, Scikit-Learn, and Matplotlib, this project provides insights to improve study strategies. 
